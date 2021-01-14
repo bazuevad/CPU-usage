@@ -18,7 +18,7 @@ http://www.binarii.com/files/papers/c_sockets.txt
 #include <stdlib.h>
 #include <limits.h>
 
-//global var for CPU
+///global var for CPU
 double CPU=0.0;
 double max = 0.0;
 int end_funct = 0;
